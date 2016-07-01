@@ -32,5 +32,5 @@ Or via NodeBB Admin panel.
 #### Information
 The plugin:  
 1. doesn't modify any source of NodeBB  
-2. gets `lodash` from NodeBB `node_modules`  
+2. gets `lodash.min.js` from NodeBB `node_modules`  
 3. injects `lodash` directly to `RequireJS` way before DOM is ready  
