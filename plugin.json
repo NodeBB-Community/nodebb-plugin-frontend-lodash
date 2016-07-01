@@ -1,0 +1,10 @@
+{
+	"id": "nodebb-plugin-frontend-lodash",
+	"name": "Easy lodash for NodeBB on client side",
+	"scripts": [
+		"public/requirejs-inject.js"
+	],
+	"staticDirs": {
+		"lodash": "../lodash"
+	}
+}
